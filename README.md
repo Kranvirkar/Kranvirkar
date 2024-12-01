@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Ranvirkar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [Data Structure]([https://origoemandi.com/#/prereg](https://github.com/Kranvirkar/DSA))
-
+- 🔭 I’m currently working on [Data structure](https://github.com/Kranvirkar/DSA)
 - 💬 Ask me about **spring, Angular, AWS, Docker**
 
 - 📫 How to reach me **kranvirkar0@gmail.com**
