@@ -1,15 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kiran Ranvirkar</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+# 👋 Hi, I'm Kiran Ranvirkar!  
 
-- 🔭 I’m currently working on [Data structure](https://github.com/Kranvirkar/DSA)
-- 💬 Ask me about **spring, Angular, AWS, Docker**
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (Backend)** with experience in developing scalable and efficient applications using cutting-edge technologies. My journey in software development is driven by a commitment to excellence and continuous learning.  
 
-- 📫 How to reach me **kranvirkar0@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🌟 **About Me**  
+- 🎓 **Education**: Bachelor of Engineering in Computer Science (Marathwada Institute of Technology, 2018)  
+- 🧑‍💻 **Current Role**: Software Development Engineer at Webhub Technology  
+- 🛠️ **Specialization**: Backend development with Java, Spring Framework, and Microservices  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 💼 **Professional Experience**  
+- **Origo Commodities India Pvt. Ltd.** (Oct 2022 – Sep 2023)  
+   - Engineered scalable backend solutions, achieving a **30% performance boost**.  
+   - Led integration efforts between frontend and backend components, optimizing the user experience.  
+
+---
+
+## 🛠️ **Technical Skills**  
+- **Languages**: Java, JavaScript, TypeScript, HTML, CSS  
+- **Frameworks**: Spring Boot, Spring MVC, Spring Batch, Node.js, React, Angular  
+- **Tools**: Docker, Jenkins, SonarQube, Grafana, Prometheus, CloudWatch  
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, Firebase  
+- **Cloud**: AWS (EC2, S3, RDS)  
+- **Other Skills**: Git, Ubuntu, Shell Scripting  
+
+---
+
+## 🔧 **Key Projects**  
+
+### 1️⃣ **E-Mandi** ([Visit Website](https://origoemandi.com/))  
+- Designed high-performance REST APIs for market data visualization, improving response times by **30%**.  
+- Integrated payment gateways, boosting transaction success rates by **25%**.  
+- Leveraged AWS to reduce operational costs by **15%**.  
+
+### 2️⃣ **Charge Point Management System (CPMS)**  
+- Improved operational efficiency by **30%** through real-time tracking of power usage and driver revenue.  
+- Reduced downtime by **25%** with proactive monitoring and dynamic charging features.  
+- Increased user satisfaction ratings by **15%** with actionable data insights.  
+
+### 3️⃣ **Warehouse Management System (WMS)**  
+- Streamlined inventory management processes with a custom-built WMS.  
+- Developed REST APIs for user settings and authorization, ensuring robust security.  
+- Integrated with third-party systems for seamless data flow and operations.  
+
+---
+
+## 🎓 **Certifications**  
+- **Red Hat Certified Engineer (RHCE)**  
+- **Red Hat System Administrator**  
+
+---
+
+## 🌱 **What I'm Learning**  
+- Exploring advanced **microservices architecture** and **cloud-native solutions**.  
+- Strengthening my front-end skills with React and Angular.  
+
+---
+
+## 📫 **Connect with Me**  
+- [LinkedIn](https://www.linkedin.com/in/kiran-ranvirkar-b92976288/)  
+- [GitHub](https://github.com/yourusername)  
+- [Email](mailto:kranvirkar0@gmail.com)  
+
+---
+
+💡 *"Code, innovate, and transform ideas into reality!"*
