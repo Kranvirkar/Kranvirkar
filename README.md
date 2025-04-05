@@ -53,21 +53,29 @@ Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (
 
 ## 🔧 **Key Projects**  
 
-### 1️⃣ **E-Mandi** ([Visit Website](https://origoemandi.com/))  
+### 1️⃣ **DAMAS**  
+**Environment**: Node.js, Express.js, JavaScript (ES6+), Firebase, REST APIs, Git, Postman, Docker, Nginx, AWS (EC2/S3), Linux, Visual Studio Code  
+- Developed and optimized RESTful APIs using Node.js and Express.js, improving data retrieval efficiency and overall backend performance.  
+- Debugged and resolved critical issues across the application stack, reducing API response times and enhancing system stability.  
+- Collaborated with internal teams to identify performance bottlenecks and implemented caching and query optimization strategies.  
+
+### 2️⃣ **E-Mandi** ([Visit Website](https://origoemandi.com/))  
+**Environment**: Java 1.8, Spring Boot, Spring Data JPA, Spring Cloud, Swagger UI, Swagger Codegen, Swagger Specification, MySQL, MongoDB, GitHub, ReactJS  
 - Designed high-performance REST APIs for market data visualization, improving response times by **30%**.  
 - Integrated payment gateways, boosting transaction success rates by **25%**.  
 - Leveraged AWS to reduce operational costs by **15%**.  
 
-### 2️⃣ **Charge Point Management System (CPMS)**  
+### 3️⃣ **Charge Point Management System (CPMS)**  
+**Environment**: Java 1.8, Spring Boot, Spring Data JPA, Spring Cloud, Keycloak, Swagger UI, MySQL, MongoDB, GitHub, ReactJS, Docker  
 - Improved operational efficiency by **30%** through real-time tracking of power usage and driver revenue.  
 - Reduced downtime by **25%** with proactive monitoring and dynamic charging features.  
 - Increased user satisfaction ratings by **15%** with actionable data insights.  
 
-### 3️⃣ **Warehouse Management System (WMS)**  
+### 4️⃣ **Warehouse Management System (WMS)**  
+**Environment**: Java 1.8, Spring MVC, Hibernate, MySQL, jQuery, Thymeleaf, Azure Repos  
 - Streamlined inventory management processes with a custom-built WMS.  
 - Developed REST APIs for user settings and authorization, ensuring robust security.  
 - Integrated with third-party systems for seamless data flow and operations.  
-
 ---
 
 ## 🎓 **Certifications**  
